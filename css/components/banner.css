@@ -1,0 +1,38 @@
+/* Banner design */
+.banner {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-size: 22px;
+  position: relative;
+}
+
+.banner-content {
+  flex: 0 0 60%;
+}
+
+.banner-content h3 {
+  padding-bottom: 20px;
+}
+
+/*.login {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  font-weight: bolder;
+  border-radius: 50px;
+  border: 2px solid white;
+  padding: 10px 25px;
+}
+
+.login:hover {
+  text-decoration: none;
+  color: #D9534F;
+  border: 3px solid #D9534F;
+  }*/

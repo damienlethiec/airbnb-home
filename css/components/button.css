@@ -1,0 +1,24 @@
+.button-yours {
+  background-color: #FFCC66;
+  border: 2px solid #FF6666;
+  transition: all 0.5s ease;
+  font-weight: bolder;
+  color: white;
+  border-radius: 12px;
+  padding: 6px 27px;
+}
+
+.button-yours:hover {
+  padding: 20px 36px;
+  background-color: #FF6666;
+}
+
+#login {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+}
+
+.big {
+  padding: 11px 27px;
+}
